@@ -35,7 +35,7 @@ function Social({className, white}: PropsSocial) {
         </Link>
       </Grid>
       <Grid item className={classes.iconSocial}>
-        <Link href='https://www.instagram.com/gerson_santtoss/'>
+        <Link href='https://www.instagram.com/dev.gerson/'>
           <a target='_blank'>
             <Image src={  white ? InstaWhite : Insta} height='24' width='24' alt='linkedin icon'/>
           </a>
